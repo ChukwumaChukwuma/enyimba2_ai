@@ -1,6 +1,6 @@
 ## Enyimba 2: Quantum Computing Inspired Large Language Model
 # Introduction
-Enyimba 2 is a groundbreaking Large Language Model (LLM) inspired by the principles of quantum computing. It represents a novel approach to AI, blending advanced language modeling with quantum mechanics concepts such as superposition, entanglement, and interference. This project aims to explore new frontiers in AI, pushing the boundaries of conventional language processing and problem-solving capabilities.
+Enyimba 2 is a groundbreaking Large Language Model (LLM) inspired by the principles of quantum computing in prompt engineering Llama2 LLM. It represents a novel approach to AI, blending advanced language modeling with quantum mechanics concepts such as superposition, entanglement, and interference. This project aims to explore new frontiers in AI, pushing the boundaries of conventional language processing and problem-solving capabilities.
 
 # Project Overview
 Enyimba 2 is not just a language model; it's an experiment in fusing the realms of quantum mechanics with AI. The project consists of several key components, each inspired by a fundamental aspect of quantum computing:
